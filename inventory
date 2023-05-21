@@ -1,2 +1,2 @@
-Node1 ansible_host=ip-18-213-2-252 
-Node2 ansible_host=ip-54-226-222-47
+Node1 ansible_host=ip-172-31-62-198
+Node2 ansible_host=ip-172-31-49-105
