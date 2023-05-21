@@ -5,5 +5,5 @@
           - name: "ensure sk user exists"
             user:
                     name: sk
-                    stste: present
+                    state: present
                     
