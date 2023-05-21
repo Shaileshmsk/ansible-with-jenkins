@@ -1,0 +1,9 @@
+- name: "Manage node1 and node2"
+  hosts: all
+  become: true
+  tasks:
+          - name: "ensure sk user exists"
+            user:
+                    name: sk
+                    stste: present
+                    
